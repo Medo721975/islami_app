@@ -1,0 +1,18 @@
+flutter_native_splash:
+  # Dark Blue background for all platforms
+  color: "#202020"
+
+  image: assets/images/splash_screen.png
+
+  # Hide notification bar
+  fullscreen: true
+
+  # Android 12+ configuration
+  android_12:
+    # Dark Blue background
+    color: "#202020"
+
+    image: assets/images/splash_screen.png
+    branding: assets/images/Route_bd.png
+
+    icon_background_color: "#202020"
